@@ -14,3 +14,7 @@ Ordered List
 1. Fender Stratocaster
 2. PRS SE Silver Sky
 3. Ibanez S470
+
+## C Level 2 Heading
+Amplifiers
+1. Fender Deluxe Reverb
