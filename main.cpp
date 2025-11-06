@@ -8,4 +8,5 @@ int main()
     cout << "Testing" << endl;
 
     string s = "abc";
+    cout << s << endl;
 }
